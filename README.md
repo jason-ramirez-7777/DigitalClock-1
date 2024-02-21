@@ -12,6 +12,6 @@
 
 ## License 📝
 
-##### Copyright © 2022 [Nəzrin İsbəndiyarova](https://github.com/isbendiyarovanezrin "Click me! 😎").
+##### Copyright © 2022 [Nəzrin İsbəndiyarova](https://github.com/teach-beast/DigitalClock-1 "Click me! 😎").
 
-##### This project is [MIT](https://github.com/isbendiyarovanezrin/DigitalClock/blob/master/LICENSE "Click me! 🧐") licensed.
+Thanks.
