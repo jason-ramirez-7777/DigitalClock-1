@@ -14,4 +14,4 @@
 
 ##### Copyright © 2022 [Nəzrin İsbəndiyarova](https://github.com/teach-beast/DigitalClock-1 "Click me! 😎").
 
-Thanks
+Thanks.
